@@ -1,0 +1,21 @@
+Wi-Fi Security Analyzer Report
+Generated: 2026-03-18 17:19:19.770064
+
+=== Network Info ===
+  ssid: Dialog 4G 641
+  bssid: d8:d8:66:4f:a2:81
+  signal: 99%
+  security: WPA2-Personal
+  frequency: Unknown
+  channel: 6
+
+=== Devices (2) ===
+  192.168.8.1 | d8-d8-66-4f-a2-81 | Unknown
+  239.255.255.250 | 01-00-5e-7f-ff-fa | Unknown
+
+=== Issues (1) ===
+  [INFO] WPA2-AES Detected
+    WPA2 with AES is secure but WPA3 is recommended.
+    Fix: Consider upgrading to WPA3 if your router supports it.
+
+Security Score: 95/100
